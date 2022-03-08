@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645956646 source:/home/margauxhanut/ProjectC/Semaine4_Stack/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
